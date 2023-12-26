@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/gbike/static/css/main.bc554383.css",
+    "main.js": "/gbike/static/js/main.e36bba45.js",
+    "static/js/787.fcce5f23.chunk.js": "/gbike/static/js/787.fcce5f23.chunk.js",
+    "static/media/img.svg": "/gbike/static/media/img.12d5749871f07b0f53f9.svg",
+    "static/media/scroll.svg": "/gbike/static/media/scroll.54cb348a9a9c82de7cdedf2a11da1b1f.svg",
+    "static/media/gcoo.svg": "/gbike/static/media/gcoo.84df21e0fb91ee09baaa010322ce8ad5.svg",
+    "index.html": "/gbike/index.html",
+    "main.bc554383.css.map": "/gbike/static/css/main.bc554383.css.map",
+    "main.e36bba45.js.map": "/gbike/static/js/main.e36bba45.js.map",
+    "787.fcce5f23.chunk.js.map": "/gbike/static/js/787.fcce5f23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc554383.css",
+    "static/js/main.e36bba45.js"
+  ]
+}
